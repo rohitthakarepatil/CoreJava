@@ -1,4 +1,4 @@
-package Program.June.Basics;
+package June;
 
 public class QA_002 {
     //keywords

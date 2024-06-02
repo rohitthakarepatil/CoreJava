@@ -1,4 +1,4 @@
-package Program.June.Basics;
+package June;
 
 import java.util.Arrays;
 
