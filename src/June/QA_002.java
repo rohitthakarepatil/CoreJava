@@ -7,9 +7,9 @@ public class QA_002 {
     public static void main(String[] args) {
 
         // Variables - Value for the this can be changed in the program.
-        // name -> pramod
+        // name -> manoj
         // name -> lucky
-        // name -> dutta
+        // name -> mahesh
 
         //Mother -> [] - sugar ->
         int age = 65;
